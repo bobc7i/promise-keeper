@@ -1,0 +1,30 @@
+{
+  "name": "promise-keeper",
+  "version": "1.0.0",
+  "description": "A module for managing deferred promises.",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bobc7i/promise-keeper.git"
+  },
+  "keywords": [
+    "deferred",
+    "promise"
+  ],
+  "author": "Robert Czarnecki",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bobc7i/promise-keeper/issues"
+  },
+  "homepage": "https://github.com/bobc7i/promise-keeper#readme",
+  "devDependencies": {
+    "babel-preset-es2015": "^6.5.0",
+    "del": "^2.2.0",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^6.1.2",
+    "gulp-jasmine": "^2.3.0"
+  }
+}
